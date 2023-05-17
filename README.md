@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS And JavaScript**
 
-- 📫 How to reach me from **sepoxmain@outlook.com**
+- 📫 You can reach me from **sepoxmain@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
