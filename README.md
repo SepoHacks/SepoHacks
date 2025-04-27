@@ -69,10 +69,10 @@
   <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+<!--   <img width="12" /> -->
+<!--   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  /> -->
+<!--   <img width="12" /> -->
+<!--   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  /> -->
 </div>
 
 ###
